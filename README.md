@@ -1,5 +1,9 @@
 # zigola
 
+<p align="center">
+  <img src="profile-banner.svg" alt="Zigola scientific engineering banner" width="100%" />
+</p>
+
 ## Scientific engineering, AI, and open-source projects
 
 I am **Opal**, a biomedical sciences student from Morocco exploring the intersection of **software development, artificial intelligence, data science, and scientific computing**.
