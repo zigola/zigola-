@@ -1,54 +1,66 @@
-# Hi, I'm Opal 👋
+# zigola
 
-<div align="center">
+## Scientific engineering, AI, and open-source projects
 
-### Biomedical Sciences Student · AI & Data Science Enthusiast · Developer
+I am **Opal**, a biomedical sciences student from Morocco exploring the intersection of **software development, artificial intelligence, data science, and scientific computing**.
 
-I build practical projects at the intersection of **science, artificial intelligence, data, and the web**.
-
-[![GitHub followers](https://img.shields.io/github/followers/zigola?style=flat&logo=github)](https://github.com/zigola?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=zigola&style=flat&color=blue)](https://github.com/zigola)
-
-</div>
+I build small, testable projects to understand problems deeply, communicate technical ideas clearly, and turn data into useful tools.
 
 ## About me
 
-- 🔬 Biomedical sciences student from Morocco
-- 🤖 Exploring AI, machine learning, and data-driven solutions
-- 🌍 Building **PLEIADES**, a wildfire monitoring project for NASA Space Apps Challenge 2026
-- 💻 Learning by creating open-source projects and improving my engineering skills
-- 🤝 Open to collaboration on meaningful science, AI, and web projects
+- Studying biomedical sciences and developing software in public
+- Building with Python, data analysis, machine learning, and web technologies
+- Interested in bioinformatics, Earth observation, environmental intelligence, and reproducible research
+- Learning through open-source projects, experiments, and practical documentation
+
+## Current focus
+
+- Strengthening Python engineering and testing practices
+- Exploring responsible AI, retrieval systems, NLP, computer vision, and AI agents
+- Developing **PLEIADES**, an experimental wildfire-monitoring project using satellite and sensor data
+- Improving accessible, responsive, and maintainable web applications
 
 ## Featured projects
 
-| Project | What it is |
-| --- | --- |
-| [PLEIADES](https://github.com/zigola/NASA-Space-Challenge-PLEIADES) | Satellite and sensor-based wildfire monitoring and early-warning platform |
-| [Official Website](https://github.com/zigola/Site-officiel-zigola-) | Responsive website built with HTML, CSS, and JavaScript |
-| [HTML Essential Training](https://github.com/zigola/HTML-ESSENTIAL-TRAINING) | Practical exercises and learning outcomes from HTML training |
+| Project | Focus | Status |
+| --- | --- | --- |
+| [PLEIADES](https://github.com/zigola/NASA-Space-Challenge-PLEIADES) | NASA FIRMS, MODIS/VIIRS data, geospatial processing, sensor simulation, and wildfire awareness | Active research/demo |
+| [Official Website](https://github.com/zigola/Site-officiel-zigola-) | Responsive personal website with HTML, CSS, and JavaScript | Active |
+| [AI RAG Starter](https://github.com/zigola/ai-rag-starter-python) | Local-first retrieval concepts, testing, and responsible AI foundations | Learning project |
+| [NLP Text Classification](https://github.com/zigola/nlp-text-classification) | Transparent text classification baseline and evaluation roadmap | Learning project |
+| [Computer Vision Playground](https://github.com/zigola/computer-vision-playground) | Image processing and OpenCV experiments | Learning project |
+| [AI Agents Workbench](https://github.com/zigola/ai-agents-workbench) | Bounded tools, memory, planning, and evaluation concepts | Learning project |
 
-## Tech & tools
+## Technology stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Languages:** Python · JavaScript · HTML · CSS · SQL (learning)
 
-## Currently learning
+**Data and AI:** Pandas · NumPy · scikit-learn · Streamlit · NLP · computer vision · geospatial data
 
-- Data analysis and visualization with Python
-- Machine learning workflows and model evaluation
-- Geospatial data and satellite observations
-- Accessible, responsive, and performant web development
+**Engineering:** Git · GitHub · pytest · REST APIs · GitHub Actions · documentation-first development
 
-## Let's connect
+## Scientific interests
 
-If you are working on science, AI, open source, or impactful technology, feel free to reach out through GitHub.
+- Biomedical data and bioinformatics
+- Reproducible scientific computing
+- Environmental and climate intelligence
+- Satellite observations and geospatial analysis
+- Human-centered, transparent, and responsible AI
+
+## Open source
+
+My repositories are learning-oriented and evolve through documented experiments. Contributions, constructive feedback, issue reports, and collaboration ideas are welcome—especially around testing, data quality, documentation, and responsible use.
+
+## GitHub activity
+
+- Browse the [repositories](https://github.com/zigola?tab=repositories)
+- See current work in [recent activity](https://github.com/zigola?tab=overview)
+- Open an issue in a project to discuss a focused improvement
+
+## Connect
+
+The best way to reach me currently is through [GitHub](https://github.com/zigola). Professional social links will be added when they are verified and ready to share.
 
 ---
 
-*Building useful things, one project at a time.*
+> Building useful things carefully, one experiment at a time.
